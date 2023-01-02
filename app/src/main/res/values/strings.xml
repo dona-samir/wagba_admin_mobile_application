@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">adminWegba</string>
+    <string name="logo">logo</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="pawword">Password</string>
+    <string name="Confirm">Confirm Password</string>
+    <string name="login">login</string>
+    <string name="sign">sign up</string>
+    <string name="id">id</string>
+    <string name="order_id">Order ID:</string>
+    <string name="my_orders">Current Order</string>
+    <string name="forward_btn">view order</string>
+    <string name="order_status">order status</string>
+    <string name="order_date">order date</string>
+    <string name="title">Title</string>
+    <string name="pick_up_time">Pick Up Time</string>
+    <string name="time_to_order">12:00 pm</string>
+    <string name="price">Price</string>
+    <string name="EGP">EGP</string>
+    <string name="deliver_fee">Deliver Fee</string>
+    <string name="cart_total">Cart Total</string>
+    <string name="place_order">Place Order</string>
+    <string name="total_price">Total</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="pick_up_gate">Pick Up Gate</string>
+    <string name="gate_3">Gate 3</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="details">details</string>
+    <string name="order_state">order_state</string>
+    <string name="time_to_order2">3:00 PM</string>
+    <string name="prepare_order">Prepare Order</string>
+    <string name="on_its_way">On its way</string>
+    <string name="delivered">Delivered</string>
+    <string name="no_order_place_yet">No order place yet</string>
+    <string name="signout">Signout</string>
+    <string-array name="order_state">
+        <item>Prepare Order</item>
+        <item>Order Placed</item>
+        <item>On its way</item>
+        <item>Delivered</item>
+    </string-array>
+
+</resources>
